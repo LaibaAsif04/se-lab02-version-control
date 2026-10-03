@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-﻿Preferred language: C#
-=======
-﻿Preferred language: C++
->>>>>>> feature-language
+Preferred language: C# for university coursework; C++ for DSA practice.
